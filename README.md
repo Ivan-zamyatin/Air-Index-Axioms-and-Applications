@@ -10,7 +10,7 @@ Standard air quality indices (e.g., Russia's IZA) typically rely on simple arith
 2. **Proves** key properties — monotonicity, idempotency, continuity, boundary behaviour, and veto — analytically and verifies them numerically.
 3. **Applies** the operators to real emission data from ~100 Russian cities (2007–2022) and compares them against the official IZA index.
 
-## Simulation Notebook — `sim_fixed_v3.ipynb`
+## Simulation Notebook — `simulations_and_results.ipynb`
 
 The notebook is the computational backbone of the project. It is structured in three layers:
 
