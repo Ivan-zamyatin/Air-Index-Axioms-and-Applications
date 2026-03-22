@@ -1,6 +1,6 @@
 # Aggregation Operators for Composite Air Quality Indices
 
-A research project exploring axiomatic aggregation operators — Power Means, OWA families, and their parametric extensions — for constructing composite environmental performance indices. Developed during an internship at the **International Laboratory of Game Theory and Decision Making**, HSE University — St. Petersburg.
+A research project exploring axiomatic aggregation operators, Power Means, OWA families, and their parametric extensions, for constructing composite environmental performance indices. Developed during an internship at the **International Laboratory of Game Theory and Decision Making**, HSE University - St. Petersburg.
 
 ## Overview
 
